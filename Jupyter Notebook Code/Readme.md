@@ -6,5 +6,5 @@ Workshop 2: Loops, Conditionals & Functions ([Link](https://github.com/LamaHamad
 
 Workshop 3: Working with Data ([Link](https://github.com/LamaHamadeh/AppliedProgramming/blob/main/Jupyter%20Notebook%20Code/Working%20with%20Data_W3.ipynb))
 
-Workshop 4: Data Visualisation ([Link
+Workshop 4: Data Visualisation ([Link]
 (https://github.com/LamaHamadeh/AppliedProgramming/blob/main/Jupyter%20Notebook%20Code/Data%20Visualisation_W4.ipynb))
