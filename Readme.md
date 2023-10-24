@@ -1,4 +1,4 @@
-The Python Applied Programming element delivers an introduction to Python programming language and its main commands. 
+Python Applied Programming is a collection of learning material for an introductory Python course for undergraduate mechanical engineering students as taught at the University College London in the Mechanical Engineering Department.
 
 Content:
 --------
