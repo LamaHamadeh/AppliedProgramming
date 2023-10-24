@@ -16,9 +16,13 @@ The latest version of the delivered material can be found as a pdf file here: ([
 
 Datasets:
 ---------
-The material uses two datastes:
+The material uses two datasets:
+
 1- ***Blood Data (as an Excell file*** ([Link](https://github.com/LamaHamadeh/AppliedProgramming/blob/main/DataSets/BloodData.xls))
+
 2- ***Movies (as a .csv file*** ([Link](https://github.com/LamaHamadeh/AppliedProgramming/blob/main/DataSets/movies.csv))
-The assessment uses a dataset collected from a:
+
+The assessment uses a dataset collected from:
+
 1- ***3D printed Stirling Engine (as a .csv file)*** ([Link](https://github.com/LamaHamadeh/AppliedProgramming/blob/main/DataSets/stirlingengineoutput1.csv))
 
