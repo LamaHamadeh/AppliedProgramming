@@ -1,8 +1,10 @@
 Python Applied Programming is a collection of learning material for an introductory Python course for undergraduate mechanical engineering students as taught at the University College London in the Mechanical Engineering Department.
 
+Author: Dr Lama Hamadeh (l.hamadeh@ucl.ac.uk)
+
 Content:
 --------
-This element has four workshops each focuses on a specific topic. These topics are distributed through these workshops as follows:
+This element has four workshops each focusing on a specific topic. These topics are distributed through these workshops as follows:
 
 Workshop 1: Pythons Basics, Scalars, Vectors, Matrices & Booleans ([Link](https://github.com/LamaHamadeh/AppliedProgramming/blob/main/Jupyter%20Notebook%20Code/Pythons%20Basics%2C%20Scalars%2C%20Vectors%2C%20Matrices%20%26%20Booleans_W1.ipynb))
 
