@@ -13,7 +13,8 @@ Author: Dr Lama Hamadeh (l.hamadeh@ucl.ac.uk)
 
 
 
-The latest version of the delivered material can be found as a pdf file here: ([Link](https://github.com/LamaHamadeh/AppliedProgramming/blob/main/Introduction_to_Python.pdf))
+The latest version of the delivered material can be found as a pdf file here: ([link](https://github.com/LamaHamadeh/AppliedProgramming/blob/main/Introduction%20to%20Python.pdf))
+
 
 Datasets:
 ---------
