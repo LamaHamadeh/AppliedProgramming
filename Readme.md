@@ -4,13 +4,13 @@ Author: Dr Lama Hamadeh (l.hamadeh@ucl.ac.uk)
 
 # Course Content:
 
-|Workshop | Topic                                                 | Link                                                                                                      |
+|Workshop | Topic                                                 | Link |
 |---------|-------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
 |1        | Pythons Basics, Scalars, Vectors, Matrices & Booleans | ([Link](https://github.com/LamaHamadeh/AppliedProgramming/tree/main/Jupyter%20Notebook%20Code/Workshop_1))|
 |2        | Loops, Conditionals & Functions                       | ([Link](https://github.com/LamaHamadeh/AppliedProgramming/tree/main/Jupyter%20Notebook%20Code/Workshop_1))|
 |3        | Working with Data                                     | ([Link](https://github.com/LamaHamadeh/AppliedProgramming/tree/main/Jupyter%20Notebook%20Code/Workshop_3))|
 |4        | Data Visualisation                                    | ([Link](https://github.com/LamaHamadeh/AppliedProgramming/tree/main/Jupyter%20Notebook%20Code/Workshop_4))|
-|---------|-------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+
 
 
 The latest version of the delivered material can be found as a pdf file here: ([Link](https://github.com/LamaHamadeh/AppliedProgramming/blob/main/Introduction_to_Python.pdf))
