@@ -1,18 +1,17 @@
-Python Applied Programming is a collection of learning material for an introductory Python course for undergraduate mechanical engineering students as taught at the University College London in the Mechanical Engineering Department.
+Python Applied Programming is a collection of learning material for an introductory Python course for undergraduate 1st-year mechanical engineering students as taught at the University College London in the Mechanical Engineering Department.
 
 Author: Dr Lama Hamadeh (l.hamadeh@ucl.ac.uk)
 
-Content:
---------
-This element has four workshops each focusing on a specific topic. These topics are distributed through these workshops as follows:
+# Course Content:
 
-Workshop 1: Pythons Basics, Scalars, Vectors, Matrices & Booleans ([Link](https://github.com/LamaHamadeh/AppliedProgramming/tree/main/Jupyter%20Notebook%20Code/Workshop_1))
+|Workshop | Topic                                                 | Link                                                                                                      |
+|---------|-------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+|1        | Pythons Basics, Scalars, Vectors, Matrices & Booleans | ([Link](https://github.com/LamaHamadeh/AppliedProgramming/tree/main/Jupyter%20Notebook%20Code/Workshop_1))|
+|2        | Loops, Conditionals & Functions                       | ([Link](https://github.com/LamaHamadeh/AppliedProgramming/tree/main/Jupyter%20Notebook%20Code/Workshop_1))|
+|3        | Working with Data                                     | ([Link](https://github.com/LamaHamadeh/AppliedProgramming/tree/main/Jupyter%20Notebook%20Code/Workshop_3))|
+|4        | Data Visualisation                                    | ([Link](https://github.com/LamaHamadeh/AppliedProgramming/tree/main/Jupyter%20Notebook%20Code/Workshop_4))|
+|---------|-------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
 
-Workshop 2: Loops, Conditionals & Functions ([Link](https://github.com/LamaHamadeh/AppliedProgramming/tree/main/Jupyter%20Notebook%20Code/Workshop_2))
-
-Workshop 3: Working with Data ([Link](https://github.com/LamaHamadeh/AppliedProgramming/tree/main/Jupyter%20Notebook%20Code/Workshop_3))
-
-Workshop 4: Data Visualisation ([Link](https://github.com/LamaHamadeh/AppliedProgramming/tree/main/Jupyter%20Notebook%20Code/Workshop_4))
 
 The latest version of the delivered material can be found as a pdf file here: ([Link](https://github.com/LamaHamadeh/AppliedProgramming/blob/main/Introduction_to_Python.pdf))
 
